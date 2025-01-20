@@ -1,0 +1,1 @@
+A platform connecting doctors and patients for online consultations, blood donation requests, and health checkups. Simplifies healthcare access with features like appointment booking, virtual diagnosis, and real-time communication.
